@@ -44,7 +44,7 @@ numpy==1.13.1
 openpyxl==2.2.0b1
 pandas==0.20.3
 pandas-datareader==0.5.0
-paramiko==1.15.2
+paramiko==2.10.1
 passlib==1.6.5
 patch==1.14.2
 path.py==8.1.2
