@@ -23,7 +23,7 @@ ipython-genutils==0.1.0
 ipywidgets==4.1.0
 jdcal==1.0
 Jinja2==2.8
-joblib==0.11
+joblib==1.2.0
 jsonschema==2.5.1
 jupyter==1.0.0
 jupyter-client==4.1.1
